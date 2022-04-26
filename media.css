@@ -1,0 +1,18 @@
+.con{
+    border: 2px solid white;
+}
+.one{
+    display: none;
+}
+input[type=text]{
+    margin-top: 20px;
+    width: 80%
+}
+input[type=email]{
+    margin: px;
+    width: 80%;
+}
+input[type=password]{
+    margin-top: 5px;
+    width: 80%;
+}
