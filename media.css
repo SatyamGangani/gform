@@ -1,12 +1,26 @@
 .con{
     border: 2px solid white;
+    margin-bottom: 0px;
+}
+h3{
+    font-size: 1.2rem;
+    min-width: 200px;
+}
+.nxt{
+    margin: 0px;
+    width: 3rem;
+    font-size: 1rem;
+    text-align: center;
+    padding: 0px;
+    /* height: 2.5rem; */
+
 }
 .one{
     display: none;
 }
 input[type=text]{
     margin-top: 20px;
-    width: 80%
+    width: 80%;
 }
 input[type=email]{
     margin: px;
@@ -16,6 +30,16 @@ input[type=password]{
     margin-top: 5px;
     width: 80%;
 }
-.nxt{
+p{
+    min-width: 200px;
+}
+.end{
     margin: 0px;
+    font-size: 1.2rem;
+}
+pre{
+    font-size: 1rem;
+}
+select{
+    font-size: 1rem;
 }
